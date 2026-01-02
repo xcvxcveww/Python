@@ -1,0 +1,1 @@
+const util_5kqd = (d: any) => d;
